@@ -1,3 +1,4 @@
+#not checked
 result = [e for e in input()]
 target = int(input())
 comb = []
