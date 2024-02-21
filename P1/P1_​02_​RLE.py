@@ -1,3 +1,4 @@
+#not done
 a = input()
 if a == "str2RLE" :
     p = [e for e in input()]
