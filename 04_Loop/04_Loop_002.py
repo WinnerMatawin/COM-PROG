@@ -1,4 +1,4 @@
-d = [int(e) for e in input().split()]
+ed = [int(e) for e in input().split()]
 p = d[-1]
 i = -1; j = 0
 n = len(d)
