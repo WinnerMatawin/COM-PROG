@@ -1,0 +1,9 @@
+mylist = [e for e in input()]
+num = ['0','1','2','3','4','5','6','7','8','9']
+ans = []
+for e in num :
+    if e not in mylist:
+        ans.append(e)
+if len(ans) == 0 :
+    print("None")
+else: print(",".join(ans))
